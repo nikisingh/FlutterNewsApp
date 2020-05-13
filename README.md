@@ -1,6 +1,15 @@
-# FlutterNewsApp
+# FlutterNewsApp #Flutter #News #Android
 
+A News app created with flutter.
+Feature - Include news from various sources and categories such as business, entertainment, health, science ,sports and technology.
 
+![Finished App - Screen 1](https://github.com/nikisingh/FlutterNewsApp/blob/master/1.png)
+![Screen 2](https://github.com/nikisingh/FlutterNewsApp/blob/master/2.png)
+
+![Screen 3](https://github.com/nikisingh/FlutterNewsApp/blob/master/3.png)
+![Screen 4](https://github.com/nikisingh/FlutterNewsApp/blob/master/4.png)
+
+Show some love 💜 and Star ⭐️ the Repository to support the project.
 
 ## Getting Started
 
